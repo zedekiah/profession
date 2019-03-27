@@ -7,5 +7,7 @@ layout: default
 
 ## Content
 * [Python](python)
+* [JavaScript](js)
 * [Linux](linux)
+* [DB](db)
 * [Software](software)
