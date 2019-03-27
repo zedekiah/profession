@@ -1,0 +1,15 @@
+title: Profession
+email: zedlaa@gmail.com
+description: >-
+  Profession tree of Zedekiah
+#baseurl: "/profession"
+url: ""
+twitter_username: lzedl
+github_username:  zedekiah
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-modernist
+
+exclude:
+  - .idea
